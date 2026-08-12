@@ -1,16 +1,14 @@
-## Hi there 👋
+### Flamelord
+![](https://i.pinimg.com/1200x/58/cf/f7/58cff73b951850f6fbce7d6ec7718adf.jpg)
 
-<!--
-**dvachevv/dvachevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python/ C# / lua / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+[Telegram](https://t.me/Ronniemcnu) · [GitHub](https://github.com/dvachevv)
+
+- Currently exploring reverse engineering and software development
+
+
+
